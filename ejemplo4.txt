@@ -1,0 +1,2 @@
+GIT es útil para trabajar 
+software en colaboracion
