@@ -1,6 +1,10 @@
 GIT es útil para trabajar 
 software en colaboracion
 
+<<<<<<< HEAD
+Esta linea ha sido agregada trabajando en la rama DEVELOPg
+=======
 Esta linea ha sido agregada trabajando en la rama DEVELOP
 
 me quede atrasado en la sesion anterior
+>>>>>>> 665b341314d4ba8f9322cd891d483228a1ad2a28
