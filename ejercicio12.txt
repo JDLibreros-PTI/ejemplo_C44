@@ -1,0 +1,4 @@
+nuevo archivo txt
+Haciendo pruebas del ultimo ejercicio en clase 
+prueba ejercicio 12
+git push 
