@@ -1,0 +1,6 @@
+Primera linea del archivo
+Otra linea en el archivo
+GIT es una herramienta poderosa 
+para el versionamiento
+
+Esta linea ha sido agregada trabajando en la rama PRINCIPAL
